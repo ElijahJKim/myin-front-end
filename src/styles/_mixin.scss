@@ -1,0 +1,155 @@
+@use 'sass:map';
+
+$btn-themes: (
+	'primary': (
+		'default': #593fd9,
+		'hover': #472dcb,
+		'active': #351bb8,
+		'text': #fff
+	),
+	'light': (
+		'default': #fff,
+		'hover': #f1f0f3,
+		'active': #e4e3e7,
+		'text': #472dcb
+	),
+	'dark': (
+		'default': #1e1e1f,
+		'hover': #1e1e1f,
+		'active': #1e1e1f,
+		'text': #fff
+	),
+	'gray': (
+		'default': #e9e8eb,
+		'hover': #d3d2d6,
+		'active': #77777a,
+		'text': #9d9ca1
+	)
+);
+
+@mixin main-button($theme: 'primary', $size: 'default') {
+	$colors: map.get($btn-themes, $theme);
+
+	// 기본 레이아웃 (기존 코드 유지 및 최적화)
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+
+	@if $size == 'extra-large' {
+		width: 300px;
+		height: 50px;
+		padding: 9px 50px;
+
+		@include tablet-up {
+			width: 500px;
+		}
+	} @else {
+		width: 200px;
+		height: 50px;
+		padding: 9px 12px;
+
+		@include tablet-up {
+			width: 305px;
+		}
+	}
+
+	@if $theme == 'light' {
+		border: 1px solid #d3d2d6;
+	} @else {
+		border: none;
+	}
+
+	border-radius: 10px;
+
+	// 테마별 색상 적용
+	background-color: map.get($colors, 'default');
+	color: map.get($colors, 'text');
+	cursor: pointer;
+	transition: all 0.2s ease;
+
+	@include text-headline-0-semibold;
+
+	&:hover {
+		background-color: map.get($colors, 'hover');
+
+		@if $theme == 'dark' {
+			color: $gray-600;
+		}
+	}
+
+	&:active,
+	&:focus {
+		outline: none;
+		background-color: map.get($colors, 'active');
+	}
+}
+
+@mixin flex-column-center {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+@mixin input-filed {
+	height: 40px;
+	border: 1px solid #d3d2d6;
+	border-radius: 10px;
+
+	@include text-body-0-semibold;
+	outline: none;
+	color: $gray-800;
+
+	&::placeholder {
+		color: #9d9ca1;
+
+		@include text-body-0-semibold;
+	}
+
+	&:focus {
+		border: 1px solid $primary-400;
+	}
+}
+
+@mixin textarea {
+	height: 150px;
+	resize: vertical;
+	padding-top: 10px;
+	padding-left: 20px;
+	border: 1px solid #d3d2d6;
+	border-radius: 10px;
+
+	@include text-body-0-semibold;
+	color: #1e1e2d;
+
+	&::placeholder {
+		color: #9d9ca1;
+
+		@include text-body-0-semibold;
+	}
+
+	&:focus {
+		border: 1px solid $primary-400;
+	}
+}
+
+@mixin error-message {
+	@include text-body-0-semibold;
+	display: flex;
+	align-items: center;
+	gap: 5px;
+
+	color: #ff080c;
+	text-align: center;
+}
+
+@mixin error-icon {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: #ffb8b9;
+	color: $gray-0;
+}

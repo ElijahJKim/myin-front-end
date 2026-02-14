@@ -1,0 +1,119 @@
+{
+  "landing": {
+    "hero_title": "Effortless & Efficient Influencer Matching<br>for Southeast Asia Expansion",
+    "hero_description": "Helping Korean beauty brands expand into Southeast Asia.",
+    "hero_button": "Submit a Campaign",
+    "service_intro_title": "The <span class=\"highlight\">Unique Value</span> We Deliver to Brands",
+    "service_intro_description": "MYIN is a Southeast Asia–focused influencer marketing platform supporting the global growth of K-Beauty brands.",
+    "service_intro_description_tablet": "MYIN is a Southeast Asia–focused influencer marketing platform<br>supporting the global growth of K-Beauty brands.",
+    "service_intro_banner_text1": "<h1 class=\"sub-title\">Creative & Authentic</h1><br> <h2 class=\"main-title\">Southeast Asian Influencer Discovery & Verification</h2>",
+    "service_intro_banner_text2": "<h1 class=\"sub-title\">Perfectly Aligned with Your Brand</h1><br> <h2 class=\"main-title\">Smart Influencer Recommendations</h2>",
+    "service_intro_banner_text3": "<h1 class=\"sub-title\">High Quality</h1><br> <h2 class=\"main-title\">Localized, Market-Fit Content</h2>",
+    "stats_banner_top_title": "Influencers in Our Network",
+    "stats_banner_top_number": "3,000+",
+    "stats_banner_top_button": "Submit a Campaign",
+    "stats_banner_bottom_title": "Still managing Southeast Asian influencers with spreadsheets?",
+    "stats_banner_bottom_description_1": "Inefficient manual work<br>ends here.",
+    "stats_banner_bottom_description_2": "<h1>Now,</h1><br><h2>Start easily with<br><span class=\"highlight\">MYIN</span>’s curated<br>Southeast Asian influencers</h2>",
+    "stats_banner_bottom_description_3": "MYIN solves the core challenges of Southeast Asian influencer marketing—at once.",
+    "problem_list": [
+      {
+        "index": 1,
+        "main_title": "Communication issues caused by language barriers",
+        "description": "Problems arising from language and cultural differences when working with Southeast Asian influencers",
+        "problemList": [
+          {
+            "title": "Briefing delivery errors"
+          },
+          {
+            "title": "Missing feedback"
+          },
+          {
+            "title": "Schedule delays"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "main_title": "Too much time spent finding the right influencers",
+        "description": "The traditional process of searching platforms, comparing dozens of influencers, and reaching out individually",
+        "problemList": [
+          {
+            "title": "Low outreach success rate"
+          },
+          {
+            "title": "Slow campaign execution"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "main_title": "Complex collaboration processes and difficult ongoing management",
+        "problemList": [
+          {
+            "title": "Hard-to-track content progress"
+          },
+          {
+            "title": "Inconsistent content quality across influencers"
+          }
+        ]
+      }
+    ],
+    "problem_solution": [
+      {
+        "main_title": "MYIN fully manages all communication<br>as a dedicated intermediary",
+        "items": [
+          {
+            "title": "Accurate <span class=\"highlight\">AI</span>-powered translation"
+          },
+          {
+            "title": "Clear guideline delivery"
+          },
+          {
+            "title": "Seamless feedback coordination"
+          }
+        ],
+        "last_text": "Ensuring content quality and collaboration stability"
+      },
+      {
+        "main_title": "<h2>Just set your campaign criteria,</h2><h1>Real-time notifications are sent<br>to 3,000+ Southeast Asian influencers</h1>",
+        "item": "A system where the right influencers<br>apply to your brand first",
+        "last_text": "<h1>Search & outreach time</h1><h2><span class=\"highlight\">reduced by over 90%</span></h2>"
+      },
+      {
+        "main_title": "MYIN manages the entire process<br>within a single platform.",
+        "item_title": "Simplified Collaboration Flow",
+        "items": [
+          {
+            "title": "Matching"
+          },
+          {
+            "title": "Execution"
+          },
+          {
+            "title": "Feedback"
+          },
+          {
+            "title": "Content Delivery"
+          }
+        ],
+        "last_text": "Submit a Campaign"
+      }
+    ],
+    "faq_title": "Frequently Asked Questions",
+    "faq_list": [
+      {
+        "question": "Which channels will campaign videos be uploaded to?",
+        "answer": "Videos are uploaded to your preferred channel: Instagram, TikTok, or YouTube."
+      },
+      {
+        "question": "Can I request revisions?",
+        "answer": "One free revision is available for minor edits such as captions or fonts, excluding reshoots."
+      },
+      {
+        "question": "What types of brands is MYIN best suited for?",
+        "answer": "Ideal for brands looking to naturally reach local consumers through Southeast Asian influencers."
+      }
+    ]
+  }
+}

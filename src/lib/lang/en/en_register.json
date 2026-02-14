@@ -1,0 +1,108 @@
+{
+  "campaign": {
+    "register_title": "Register a Campaign",
+    "register_brand_name": "Brand Name",
+    "register_brand_name_example": "e.g. Innisfree",
+    "register_product_name": "Product Name",
+    "register_product_name_example": "e.g. Carrot Toner Pad",
+    "register_campaign_purpose": "Campaign Objective",
+    "register_campaign_purpose_example": "Please enter the objective.",
+    "register_target_country": {
+      "title": "Target Country (Multiple Selection)",
+      "items": [
+        {
+          "title": "Thailand"
+        },
+        {
+          "title": "Vietnam"
+        },
+        {
+          "title": "Singapore"
+        },
+        {
+          "title": "Undecided"
+        }
+      ]
+    },
+    "register_upload_platform": {
+      "title": "Upload Platform (Multiple Selection)",
+      "items": [
+        {
+          "title": "TikTok"
+        },
+        {
+          "title": "Instagram"
+        },
+        {
+          "title": "YouTube"
+        }
+      ]
+    },
+    "register_budget": {
+      "title": "Budget Range",
+      "items": [
+        {
+          "title": "$9"
+        },
+        {
+          "title": "$99"
+        },
+        {
+          "title": "$999"
+        }
+      ]
+    },
+    "register_upload_period": "Preferred Upload Date",
+    "register_upload_period_example": "Click to select a date",
+    "register_product_link": "Product Link",
+    "register_product_link_example": "Paste the link",
+    "register_charge_name": "Contact Person",
+    "register_charge_name_example": "Enter your name.",
+    "register_charge_phone": "Contact Phone Number",
+    "register_charge_phone_example": "Enter your phone number",
+    "register_charge_email": "Contact Email",
+    "register_charge_email_example": "example@email.com",
+    "register_etc": "Additional Notes",
+    "register_etc_example": "Please enter your message.",
+    "register_prev_button": "Previous",
+    "register_next_button": "Next",
+    "register_submit_button": "Submit",
+    "privacy_title": "Consent to Collection and Use of Personal Information",
+    "privacy_description": "MYIN collects and uses personal information to manage advertiser accounts and process campaign inquiries.",
+    "privacy_section1_title": "* Advertiser Account Management",
+    "privacy_section1_items": [
+      "Guidance for service provision and contract fulfillment",
+      "(If marketing consent is given) Event notifications and promotional information"
+    ],
+    "privacy_section2_title": "* Campaign Application / Inquiry & Consultation",
+    "privacy_section2_items": [
+      "Campaign application, inquiries, and consultation",
+      "Notices related to advertising operations and promotions"
+    ],
+    "privacy_section3_title": "Personal information is collected in the following ways:",
+    "privacy_section3_items": [
+      "Collected via website inquiries: brand name, name, phone number, inquiry details"
+    ],
+    "privacy_section4_title": "Personal Information Retention Policy",
+    "privacy_section4_items": [
+      "Personal information will be destroyed without delay once the purpose is achieved, unless retention is required by law.",
+      "Records of consumer complaints or disputes: 3 years",
+      "Advertising display records: 6 months",
+      "Website visit logs: 3 months",
+      "Payment and supply records: 5 years",
+      "If advertising settlement is incomplete, MYIN may refuse deletion or correction."
+    ],
+    "privacy_section5_description": "Users may view, modify, or request deletion or suspension of their personal information by contacting us.",
+    "privacy_contact": "Contact: myin@myin-biz.com",
+    "privacy_agree_button": "Agree and Continue",
+    "error_required": "This field is required.",
+    "error_email_format": "Please enter a valid email address. (e.g., example@gmail.com)",
+    "privacy_close_button": "Close",
+    "privacy_submit_title": "Would you like to submit?",
+    "privacy_submit_description": "You can edit after submission.",
+    "privacy_submit_button": "Submit",
+    "privacy_submit_processing": "Processing...",
+    "privacy_submit_cancel_button": "Cancel",
+    "privacy_submit_error": "Submission failed. Please try again later."
+  }
+}

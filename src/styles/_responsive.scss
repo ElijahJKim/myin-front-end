@@ -1,0 +1,28 @@
+// 1. 기준점 설정
+$breakpoint-tablet: 800px;
+$breakpoint-desktop: 1200px;
+
+// --------------------------------------------------------------
+// Mobile-First Mixins (작은 화면에서 큰 화면 순으로 스타일 추가)
+// --------------------------------------------------------------
+
+// 태블릿 이상 (800px ~ 1199px 및 그 이상)
+@mixin tablet-up {
+	@media (min-width: #{$breakpoint-tablet}) {
+		@content;
+	}
+}
+
+// 데스크톱 이상 (1200px ~ )
+@mixin desktop-up {
+	@media (min-width: #{$breakpoint-desktop}) {
+		@content;
+	}
+}
+
+// (참고용) 오직 모바일에서만 적용하고 싶을 때 (0px ~ 799px)
+@mixin mobile-only {
+	@media (max-width: #{$breakpoint-tablet - 1px}) {
+		@content;
+	}
+}

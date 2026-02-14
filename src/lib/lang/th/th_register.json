@@ -1,0 +1,108 @@
+{
+  "campaign": {
+    "register_title": "ลงทะเบียนแคมเปญ",
+    "register_brand_name": "ชื่อแบรนด์",
+    "register_brand_name_example": "เช่น Innisfree",
+    "register_product_name": "ชื่อสินค้า",
+    "register_product_name_example": "เช่น Carrot Toner Pad",
+    "register_campaign_purpose": "วัตถุประสงค์แคมเปญ",
+    "register_campaign_purpose_example": "กรุณากรอกวัตถุประสงค์",
+    "register_target_country": {
+      "title": "ประเทศเป้าหมาย (เลือกได้หลายประเทศ)",
+      "items": [
+        {
+          "title": "ไทย"
+        },
+        {
+          "title": "เวียดนาม"
+        },
+        {
+          "title": "สิงคโปร์"
+        },
+        {
+          "title": "ยังไม่กำหนด"
+        }
+      ]
+    },
+    "register_upload_platform": {
+      "title": "แพลตฟอร์มอัปโหลด (เลือกได้หลายรายการ)",
+      "items": [
+        {
+          "title": "TikTok"
+        },
+        {
+          "title": "Instagram"
+        },
+        {
+          "title": "YouTube"
+        }
+      ]
+    },
+    "register_budget": {
+      "title": "งบประมาณ",
+      "items": [
+        {
+          "title": "9 ดอลลาร์"
+        },
+        {
+          "title": "99 ดอลลาร์"
+        },
+        {
+          "title": "999 ดอลลาร์"
+        }
+      ]
+    },
+    "register_upload_period": "วันที่ต้องการเผยแพร่",
+    "register_upload_period_example": "คลิกเพื่อเลือกวันที่",
+    "register_product_link": "ลิงก์สินค้า",
+    "register_product_link_example": "วางลิงก์",
+    "register_charge_name": "ชื่อผู้ติดต่อ",
+    "register_charge_name_example": "กรอกชื่อ",
+    "register_charge_phone": "เบอร์โทรศัพท์",
+    "register_charge_phone_example": "กรอกเบอร์โทร",
+    "register_charge_email": "อีเมลผู้ติดต่อ",
+    "register_charge_email_example": "example@email.com",
+    "register_etc": "ข้อมูลเพิ่มเติม",
+    "register_etc_example": "กรอกข้อความ",
+    "register_prev_button": "ย้อนกลับ",
+    "register_next_button": "ถัดไป",
+    "register_submit_button": "ส่ง",
+    "privacy_title": "ยินยอมให้เก็บและใช้ข้อมูลส่วนบุคคล",
+    "privacy_description": "MYIN เก็บข้อมูลส่วนบุคคลเพื่อจัดการลูกค้าและดำเนินการแคมเปญ",
+    "privacy_section1_title": "* การจัดการลูกค้า",
+    "privacy_section1_items": [
+      "ให้บริการและดำเนินการตามสัญญา",
+      "(หากยินยอมการตลาด) แจ้งข้อมูลกิจกรรมและโปรโมชัน"
+    ],
+    "privacy_section2_title": "* การสมัคร / ให้คำปรึกษาแคมเปญ",
+    "privacy_section2_items": [
+      "สมัครและปรึกษาแคมเปญ",
+      "แจ้งข้อมูลเกี่ยวกับการดำเนินงานและโปรโมชัน"
+    ],
+    "privacy_section3_title": "วิธีการเก็บข้อมูล:",
+    "privacy_section3_items": [
+      "เก็บผ่านเว็บไซต์: ชื่อแบรนด์ ชื่อ เบอร์โทร และข้อความ"
+    ],
+    "privacy_section4_title": "นโยบายการเก็บรักษาข้อมูล",
+    "privacy_section4_items": [
+      "ลบข้อมูลเมื่อบรรลุวัตถุประสงค์ ยกเว้นกฎหมายกำหนด",
+      "ข้อร้องเรียน: 3 ปี",
+      "โฆษณา: 6 เดือน",
+      "บันทึกการเข้าชม: 3 เดือน",
+      "การชำระเงิน: 5 ปี",
+      "อาจปฏิเสธการลบหากยังไม่ชำระเงิน"
+    ],
+    "privacy_section5_description": "คุณสามารถขอดู แก้ไข หรือขอลบข้อมูลส่วนบุคคลได้",
+    "privacy_contact": "ติดต่อ: myin@myin-biz.com",
+    "privacy_agree_button": "ยินยอมและดำเนินการต่อ",
+    "error_required": "ช่องนี้จำเป็นต้องกรอก",
+    "error_email_format": "กรุณากรอกอีเมลให้ถูกต้อง (เช่น example@gmail.com)",
+    "privacy_close_button": "ปิด",
+    "privacy_submit_title": "ต้องการส่งหรือไม่?",
+    "privacy_submit_description": "สามารถแก้ไขได้หลังส่ง",
+    "privacy_submit_button": "ส่ง",
+    "privacy_submit_processing": "กำลังดำเนินการ...",
+    "privacy_submit_cancel_button": "ยกเลิก",
+    "privacy_submit_error": "ส่งไม่สำเร็จ กรุณาลองใหม่อีกครั้ง"
+  }
+}

@@ -1,0 +1,331 @@
+{
+	"collab": {
+		"collab_advertiser_title": "할 일을 확인해 단계를 진행해주세요.",
+		"collab_influencer_title": "매칭이 성사되었어요!",
+		"collab_campaign_name": "캠페인 이름",
+
+		"collab_first_page_title": "캠페인 진행 단계",
+		"collab_first_page_subtitle": "캠페인은 총 4단계로 이루어져요.",
+		"collab_first_page_item1": "가이드라인 작성 및 확인",
+		"collab_first_page_item2": "제품 배송 및 수령",
+		"collab_first_page_item3": "초안 업로드 및 피드백",
+		"collab_first_page_item4": "최종본 업로드 및 캠페인 완료",
+
+		"collab_influencer_pending_message": "<h1>광고주가 가이드라인을 작성 중이에요.</h1><br><h1>작성 완료 시 이메일로 안내드려요.</h1>",
+
+		"collab_first_page_influencer_name": "인플루언서 이름",
+		"collab_first_page_influencer_progress": "인플루언서 진행 상황",
+
+		"collab_first_page_advertiser_brand_name": "브랜드 이름",
+		"collab_first_page_advertiser_brand_deadline": "마감일/가이드라인",
+		"collab_first_page_advertiser_brand_check_guideline": "보기",
+		"collab_first_page_advertiser_brand_progress": "브랜드 진행 상황",
+		"collab_first_page_advertiser_brand_required": "진행 필요 항목",
+		"collab_first_page_advertiser_brand_guideline": "가이드라인",
+
+		"collab_first_page_advertiser_progress": "광고주 진행 상황",
+		"collab_first_page_brand_progress_in_influencer": "진행 상황",
+		"collab_first_page_progress_action_items": "진행 필요 항목",
+
+		"//": "Influencer Progress (인플루언서 진행 상황)",
+		"status_influencer_guideline_waiting": "대기 중",
+		"status_influencer_guideline_reviewing": "가이드라인 확인 중",
+		"status_influencer_guideline_confirmed": "가이드라인 확인 완료",
+		"status_influencer_product_waiting": "제품 수령 대기",
+		"status_influencer_product_received": "제품 수령 완료",
+		"status_influencer_draft_producing": "초안 제작 중",
+		"status_influencer_draft_uploaded": "초안 업로드 완료",
+		"status_influencer_feedback_reviewing": "피드백 확인 중",
+		"status_influencer_final_producing": "최종본 제작 중",
+		"status_influencer_final_uploaded": "최종본 업로드 완료",
+		"status_influencer_completed": "완료",
+
+		"//": "Advertiser Progress (광고주 진행 상황)",
+		"status_advertiser_guideline_writing": "가이드라인 작성 중",
+		"status_advertiser_guideline_completed": "가이드라인 작성 완료",
+		"status_advertiser_shipment_preparing": "제품 배송 준비 중",
+		"status_advertiser_shipment_shipping": "제품 배송 중",
+		"status_advertiser_draft_waiting": "초안 확인 대기 중",
+		"status_advertiser_draft_reviewing": "초안 확인 중",
+		"status_advertiser_feedback_completed": "피드백 완료",
+		"status_advertiser_final_waiting": "최종본 확인 대기 중",
+		"status_advertiser_final_completed": "최종본 업로드 및 캠페인 완료",
+
+		"//": "Influencer Action (인플루언서 진행 필요 항목)",
+		"action_influencer_review_guideline": "가이드라인 확인하기",
+		"action_influencer_pending": "가이드라인 확인하기",
+		"action_influencer_check_invoice": "송장 확인하기",
+		"action_influencer_upload_draft": "초안 업로드하기",
+		"action_influencer_draft_uploaded": "초안 업로드 완료 및 피드백 대기 중",
+		"action_influencer_review_feedback": "피드백 확인하기",
+		"action_influencer_review_feedback_completed": "피드백 완료",
+		"action_influencer_review_and_upload_final": "피드백 확인 및 최종본 업로드하기",
+		"action_influencer_completed": "캠페인 완료",
+
+		"action_advertiser_write_guideline": "가이드라인 작성하기",
+		"action_advertiser_ship_product": "제품 배송 및 송장 입력하기",
+		"action_advertiser_review_draft": "초안 확인 및 피드백 작성하기",
+		"action_advertiser_review_final": "최종본 확인하기",
+		"action_advertiser_completed": "완료",
+		"action_advertiser_pending": "대기 중",
+ 
+		"collab_advertiser_guideline-title": "가이드라인을 먼저 작성해주세요",
+		"collab_advertiser_guideline-write": "가이드라인 작성하기",
+		"collab_advertiser_guideline-view": "작성한 가이드라인 보기",
+		"collab_advertiser_guideline-edit": "수정하기",
+		"collab_advertiser_guideline-edit-message": "유의사항",
+		"collab_advertiser_guideline-edit-description": "기존 작성한 가이드라인과 수정가이드라인의 범위가 많이 달라지는 경우, 인플루언서와의 협의가 필요해요",
+		"collab_advertiser_guideline-edit-complete": "수정 완료하기",
+		"collab_advertiser_guideline-edit-cancel": "취소하기",
+		"collab_influencer_guideline": "가이드라인 보기",
+
+		"collab_modal_title": "먼저 가이드라인을 작성해주세요",
+		"collab_modal_subtitle": "가이드 라인은 인플루언서에게 제공할 기본 안내서입니다.",
+		"collab_modal_description": "광고주가 꼭 전달하고 싶은 내용과 반드시 지켜야 할 기준을 미리 정리해 둔 것으로, 어떤 방향으로 영상을 만들면 되는지 쉽게 이해할 수 있도록 도와줍니다.",
+		"collab_modal_description_2": "이를 통해 광고주와 인플루언서가 같은 기준으로 협업할 수 있고, 불필요한 수정 없이 더 좋은 콘텐츠를 만들 수 있습니다.",
+		"collab_modal_close_button": "문의하기",
+		"collab_modal_write_button": "바로 작성하기",
+
+		"guidelineform_title": "가이드라인 작성본 미리보기",
+		"guidelineform_subtitle": "<h1>작성한 가이드라인은 일부 수정 가능하나,</h1><h1>수정 범위가 클 경우 인플루언서와의 추가 협의가 필요할 수 있습니다.</h1>",
+		"guidelineform_submitted": "캠페인 문의 때 작성했던 내용이에요",
+		"guidelineform_not_submitted": "여기부터 방금 작성한 내용이에요",
+		"guidelineform_brand": "브랜드명",
+		"guidelineform_product": "제품명",
+		"guidelineform_date": "캠페인 기간 (콘텐츠 업로드 마감 포함)",
+		"guidelineform_date_placeholder": "2026.01.01 ~ 2026.01.31",
+		"guidelineform_platform": {
+			"title": "플랫폼",
+			"items": [
+				{
+					"title": "틱톡"
+				},
+				{
+					"title": "인스타그램"
+				},
+				{
+					"title": "유튜브"
+				}
+			]
+		},
+		"guidelineform_purpose": "캠페인 목적",
+		"guidelineform_purpose_placeholder": "인플루언서 실제 리뷰 확보",
+		"guidelineform_video_mood": {
+			"title": "영상 무드",
+			"items": [
+				{
+					"title": "감성형"
+				},
+				{
+					"title": "정보형"
+				},
+
+				{
+					"title": "기타"
+				}
+			]
+		},
+		"guidelineform_video_length": "영상 길이",
+		"guidelineform_video_length_placeholder": "예) 0분 00초",
+	
+		"guidelineform_video_subtitle": {
+			"title": "자막 여부",
+			"items": [
+				{
+					"title": "필수"
+				},
+				{
+					"title": "선택"
+				}
+			]
+		},
+
+		"guidelineform_required_text_content": "필수 언급 내용",
+		"guidelineform_required_text_content_placeholder": "필수로 들어가야 하는 요청 내용을 입력해주세요.",
+		"guidelineform_required_picture_content": {
+			"title": "필수 컷",
+			"items": [
+				{
+					"title": "제품 단독"
+				},
+				{
+					"title": "패키지 단독"
+				},
+				{
+					"title": "제형 표현"
+				},
+				{
+					"title": "제품 사용"
+				},
+				{
+					"title": "제품을 들고 셀피"
+				},
+				{
+					"title": "기타"
+				}
+			]
+		},
+		"guidelineform_required_picture_content_placeholder": "기타 요청 컷을 입력해주세요.",
+		"guidelineform_important_instructions": "주의 사항 전달",
+		"guidelineform_important_instructions_placeholder": "인플루언서가 주의해야 할 사항을 입력해주세요.",
+		"guidelineform_etc": "기타",
+		"guidelineform_etc_placeholder": "필수 해시태그, 영상 길이, 영상 비율 등 참고해야하는 사항을 입력해주세요.",
+		"guidelineform_ai_text": "(AI 부분수정 환료)",
+		"guidelineform_translate_text": "번역 보기",
+		"guidelineform_price": "컨텐츠 제작료",
+		"guidelineform_btn": "제출하기",
+
+		"guidelineform_modal_title": "제출하시겠어요?",
+		"guidelineform_modal_subtitle": "제출 후 수정 주의사항",
+		"guidelineform_modal_description": "수정할 수 있지만 기존 작성한 가이드라인과 확정 가이드라인의 범위가 많이 달라지는 경우, 인플루언서와의 협의가 필요해요",
+		"guidelineform_modal_submit_button": "제출하기",
+		"guidelineform_modal_cancel_button": "계속 작성하기",
+
+		"guidelineform_advertiser_completed_title": "가이드라인 작성이 완료되었어요",
+		"guidelineform_advertiser_completed_description": "<h1>인플루언서가 확인할 떄까지 잠시 기다려 주세요.</h1><h1>확인하면 이메일로 알려드릴게요.</h1><h1>미확인 시에도, 영업일 3일 이후에 자동으로 확정돼요.</h1>",
+		"guidelineform_advertiser_completed_button": "홈으로",
+		"guidelineform_influencer_to_guidelineform": "작성한 가이드라인 보기",
+
+		"guidelineform_influencer_title": "가이드라인",
+		"guidelineform_influencer_warning": "<h1>이 내용을 지켜서 영상을 제작해주세요.</h1><h1>영업일 기준 2일 이후 자동 확정돼요</h1>",
+		"guidelineform_influencer_confirm_button": "확인 완료하기",
+		"guidelineform_influencer_objection_button": "이의 신청하기",
+		"guidelineform_influencer_objection_title": "이의 신청하기",
+		"guidelineform_influencer_objection_description_1": "가이드라인에서 수정되었으면 하는 내용을 입력해주세요.",
+		"guidelineform_influencer_objection_description_2": "신청 후 담당자가 이메일을 드려요.",
+
+		"guidelineform_influencer_objection_placeholder": "내용을 입력해주세요.",
+		"guidelineform_influencer_objection_cancel_button": "닫기",
+		"guidelineform_influencer_objection_submit_button": "신청하기",
+
+		"guidelineform_influencer_confirm_modal_title": "확인 완료하시겠어요?",
+		"guidelineform_influencer_confirm_modal_description": "완료 후 이의를 신청할 수 없어요.",
+		"guidelineform_influencer_confirm_modal_submit_button": "확인 완료하기",
+		"guidelineform_influencer_confirm_modal_cancel_button": "닫기",
+
+		"guidelineform_influencer_check_title": "가이드라인 확인이 완료되었어요",
+		"guidelineform_influencer_check_description": "가이드라인 확인이 완료되었습니다. 계약서는 이메일로 발송될 예정이니, 수신 후 서명해 주시기 바랍니다. 서명이 완료된 이후 제품이 배송될 예정입니다.",
+		"guidelineform_influencer_check_objection": "가이드라인 이의 신청이 정상적으로 접수되었습니다. 검토 결과는 이메일로 안내드릴 예정이며, 발송일로부터 2일 이내 회신이 없을 경우 가이드라인은 자동 승인 처리되고 계약서 작성 단계로 진행됩니다.",
+		"guidelineform_influencer_check_button": "홈으로",
+
+		"guidelineform_influencer_objection_success_title": "이의 신청이 완료되었어요.",
+
+		"shipmentform_advertiser_completed_envoice_title": "송장 입력이 완료되었어요.",
+		"shipmentform_advertiser_completed_envoice_description": "인플루언서가 초안 제작을 시작하면 알려드릴게요.",
+		"shipmentform_advertiser_completed_button": "홈으로",
+	
+
+		"shipmentform_advertiser_cancel_title": "취소 처리 되었어요.",
+		"shipmentform_advertiser_cancel_description": "빠른 시일 내에 제품 배송을 완료해주세요.",
+		"shipmentform_advertiser_cancel_home_button": "홈으로",
+
+		"picturefileupload_title": "<h1>인플루언서에게 제품 배송을 완료한 후</h1><h1>송장을 입력해주세요</h1>",
+		"picturefileupload_description": "정보는 배송 확인 용도로만 사용됩니다",
+		"picturefileupload_button_1": "파일 업로드해 자동입력",
+		"picturefileupload_button_2": "자동입력",
+		"picturefileupload_button_3": "직접입력",
+		"picturefileupload_field_title": "송장 촬영 파일을 업로드해주세요",
+		"picturefileupload_field_placeholder": "<h1>첨부할 파일을 여기에 끌어다 놓거나</h1><h1>직접 선택하세요<h1>",
+		"picturefileupload_field_placeholder_2": "파일 양식: jpeg,jpg,png,HEIC",
+		"picturefileupload_field_button": "파일 선택하기",
+		"picturefileupload_field_add_more_file": "파일 추가하기",
+		"picturefileupload_modal_title": "필요한 정보가 인식되지 않았어요.",
+		"picturefileupload_modal_description": "수취인 이름, 운송장 번호, 배송사 3가지 정보가 반드시 포함된 파일을 다시 업로드해주세요.",
+		"picturefileupload_modal_submit_button": "다시 업로드하기",
+		"picturefileupload_modal_cancel_button": "계속 작성하기",
+
+		"shipment_infoform_order_recipient_name": "수취인 이름",
+		"shipment_infoform_order_number": "운송장 번호",
+		"shipment_infoform_order_company": "배송사",
+		"shipment_infoform_order_warning": "유의사항",
+		"shipment_infoform_order_warning_description": "정보가 정확한지 확인해주세요",
+		"shipment_infoform_order_button": "입력하기",
+
+
+		"shipment_confirmform_title": "송장을 확인해주세요",
+		"shipment_confirmform_description": "광고주가 제품을 배송했어요.",
+		"shipment_confirmform_warning": "제품을 수령한 이후에 반드시 완료하기 버튼을 눌러주세요.",
+		"shipment_confirmform_button": "제품 수령 완료하기",
+		"shipment_confirmform_cancel_button": "홈으로",
+
+
+		"uploaddraft_check_title":"제품 수령을 완료했어요",
+		"uploaddraft_check_description":"초안 제작을 시작해주세요",
+		"uploaddraft_check_warning":"가이드라인에 따른 콘텐츠 업로드를 완료해야 정산이 진행됩니다. <span class=\"warning-text\">캠페인 미이행 시 제품에 대한 비용 청구 및 향후 MYIN 캠페인 참여가 제한</span>될 수 있습니다.",
+		"uploaddraft_check_button":"확인했어요",
+		"uploaddraft_check_cancel_button":"닫기",
+
+		"uploaddraft_title":"초안 업로드하기",
+		"uploaddraft_description":"가이드라인에 맞게 제작된 초안을 업로드 해주세요",
+		"uploaddraft_check_guidelines":"가이드라인 보기",
+		"uploaddraft_file_upload_title":"첨부할 파일을 여기에 끌어다 놓거나 직접 선택하세요",
+		"uploaddraft_file_upload_placeholder":"파일 선택하기",
+		"uploaddraft_file_category":"파일 양식: AVI, MP4, MOV",
+		"uploaddraft_button":"업로드 완료하기",
+		"uploaddraft_cancel_button":"파일 추가하기",
+
+		"uploaddraft_complete_title":"초안 업로드가 완료되었어요",
+		"uploaddraft_complete_description":"브랜드 검토가 완료되면 이메일로 안내드릴게요. 피드백 확인 후,수정된 최종본을 업로드해 주세요.",
+		"uploaddraft_complete_button":"홈으로",
+
+		"feedback_complete_title":"피드백 제출이 완료되었어요",
+		"feedback_complete_subtitle":"인플루언서가 반영 이후, 바로 최종본이 업로드됩니다",
+		"feedback_complete_description":"업로드 시 알림을 보내드려요. 최종본은 홈에서 확인할 수 있어요.",
+		"feedback_complete_button":"캠페인 홈으로",
+
+
+		"feedback_title":"초안 피드백하기",
+		"feedback_description":"아래 재생 바에서 피드백할 영역을 선택해주세요",
+		"feedback_date":"전달일",
+		"feedback_write":"피드백 작성",
+		"feedback_write_placeholder":"두 가지 방법으로 작성할 수 있어요.",
+		"feedback_write_button_1":"타임라인에서 피드백하기",
+		"feedback_write_button_2":"글로만 피드백하기",
+		"feedback_ai_title":"AI 뷰티 에이전트 대본 추출",
+		"feedback_warning_title":"유의사항",
+		"feedback_warning_description":"초안 피드백은 1회까지 가능하며, 피드백 반영 후 바로 컨텐츠가 업로드될 수 있습니다.",
+		"feedback_write_feedback":"피드백 작성",
+		"feedback_submit_button":"피드백 보내기",
+		"feedback_cancel_button":"작성 취소하기",
+		"feedback_text_title":"글로 피드백 작성하기",
+		"feedback_text_placeholder":"피드백을 입력해주세요.",
+		"feedback_text_button":"작성 취소하기",
+		"feedback_text_cancel_button":"작성 완료하기",
+		"feedback_timeline_button":"시간 선택해 피드백하기",
+
+		"finaldraft_title":"최종본이 업로드되어 캠페인이 완료되었어요",
+		"finaldraft_date":"전달일",
+		"finaldraft_sns_1":"최종본",
+		"finaldraft_sns_2":"바로가기",
+		"finaldraft_warning":"꼭 확인해주세요",
+		"finaldraft_description_1":"1. 확인 후 직접 인플루언서에게 정산을 진행해주세요.",
+		"finaldraft_description_2":"2. 최종 파일은 지금부터 1주일 간 여기서 다운로드 받을 수 있어요.",
+		"finaldraft_description_3":"3. 1주일 후에는 이 페이지의 URL이 만료되며, 그 후에는 관리자에게 이메일 문의해주세요.",
+		"finaldraft_download_button":"최종본 다운로드",
+		"finaldraft_home_button":"홈으로",
+
+		"reviewfeedback_title":"브랜드 피드백",
+		"reviewfeedback_description":"피드백을 반영해 수정한 최종본으로 플랫폼에 업로드해주세요.",
+		"reviewfeedback_date":"전달일",
+		"reviewfeedback_data_title":"초안 피드백",
+		"reviewfeedback_translate":"한글 원문 보기",
+		"reviewfeedback_original_text":"원문 보기",
+		"reviewfeedback_no_time_feedback":"시간대 미지정 피드백",
+		"reviewfeedback_final_upload_button":"최종본 업로드하기",
+		"reviewfeedback_check_feedback":"브랜드 피드백 보기",
+		"reviewfeedback_upload_link":"업로드 링크를 제출해주세요.",
+		"reviewfeedback_upload_link_placeholder1":"틱톡",
+		"reviewfeedback_upload_link_placeholder2":"인스타그램",
+		"reviewfeedback_upload_link_placeholder3":"유튜브",
+		"reviewfeedback_upload_warning1":"반드시 플랫폼에 동일한 파일을 업로드해주세요.",
+		"reviewfeedback_upload_warning2":"[업로드 완료하기] 버튼 을 누른 다음 재업로드는 불가능해요",
+		"reviewfeedback_upload_button":"업로드 완료하기", 
+
+		"finaldraft_check_title":"최종분 제출이 완료되었어요",
+		"finaldraft_check_description":"캠페인 완료 및 콘텐츠 업로드 확인 후, 영업일 기준 14일 이내 정산이 진행됩니다.",
+		"finaldraft_check_button":"홈으로",
+		"finaldraft_check_cancel_button":"문의하기"
+
+
+	}
+}

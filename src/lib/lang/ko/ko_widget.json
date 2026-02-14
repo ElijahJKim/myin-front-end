@@ -1,0 +1,12 @@
+{
+	"widget": {
+		"header_button1": "1:1 문의하기",
+		"header_button2": "언어 번경하기",
+
+		"footer_service": "서비스",
+		"footer_register": "캠페인 등록하기",
+		"footer_link": "협업 페이지 바로가기",
+		"footer_contact": "문의",
+		"footer_copyright": "Copyright © Myin. All Rights Reserved."
+	}
+}

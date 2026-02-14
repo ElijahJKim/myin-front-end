@@ -1,0 +1,108 @@
+{
+  "campaign": {
+    "register_title": "注册营销活动",
+    "register_brand_name": "品牌名称",
+    "register_brand_name_example": "例如：Innisfree",
+    "register_product_name": "产品名称",
+    "register_product_name_example": "例如：胡萝卜爽肤垫",
+    "register_campaign_purpose": "活动目的",
+    "register_campaign_purpose_example": "请输入活动目的。",
+    "register_target_country": {
+      "title": "目标国家（可多选）",
+      "items": [
+        {
+          "title": "泰国"
+        },
+        {
+          "title": "越南"
+        },
+        {
+          "title": "新加坡"
+        },
+        {
+          "title": "待定"
+        }
+      ]
+    },
+    "register_upload_platform": {
+      "title": "发布平台（可多选）",
+      "items": [
+        {
+          "title": "TikTok"
+        },
+        {
+          "title": "Instagram"
+        },
+        {
+          "title": "YouTube"
+        }
+      ]
+    },
+    "register_budget": {
+      "title": "预算范围",
+      "items": [
+        {
+          "title": "9美元"
+        },
+        {
+          "title": "99美元"
+        },
+        {
+          "title": "999美元"
+        }
+      ]
+    },
+    "register_upload_period": "期望发布日期",
+    "register_upload_period_example": "点击选择日期",
+    "register_product_link": "产品链接",
+    "register_product_link_example": "粘贴链接",
+    "register_charge_name": "负责人姓名",
+    "register_charge_name_example": "请输入姓名",
+    "register_charge_phone": "负责人电话",
+    "register_charge_phone_example": "请输入电话号码",
+    "register_charge_email": "负责人邮箱",
+    "register_charge_email_example": "example@email.com",
+    "register_etc": "其他事项",
+    "register_etc_example": "请输入内容",
+    "register_prev_button": "上一步",
+    "register_next_button": "下一步",
+    "register_submit_button": "提交",
+    "privacy_title": "个人信息收集与使用同意",
+    "privacy_description": "MYIN 为管理广告主及处理营销活动而收集和使用个人信息。",
+    "privacy_section1_title": "* 广告主管理",
+    "privacy_section1_items": [
+      "提供服务及履行合同的相关说明",
+      "（同意营销时）活动及促销信息通知"
+    ],
+    "privacy_section2_title": "* 活动申请 / 咨询",
+    "privacy_section2_items": [
+      "活动申请、咨询与沟通",
+      "广告运营及推广相关通知"
+    ],
+    "privacy_section3_title": "个人信息收集方式：",
+    "privacy_section3_items": [
+      "通过网站收集：品牌名、姓名、电话、咨询内容"
+    ],
+    "privacy_section4_title": "个人信息保存政策",
+    "privacy_section4_items": [
+      "达成目的后立即删除，法律要求除外。",
+      "投诉记录：3年",
+      "广告记录：6个月",
+      "访问记录：3个月",
+      "支付记录：5年",
+      "若未完成结算，可能拒绝删除。"
+    ],
+    "privacy_section5_description": "您可随时查询、修改或要求删除个人信息。",
+    "privacy_contact": "联系方式：myin@myin-biz.com",
+    "privacy_agree_button": "同意并继续",
+    "error_required": "此项为必填项。",
+    "error_email_format": "请输入有效的邮箱地址。（例如：example@gmail.com）",
+    "privacy_close_button": "关闭",
+    "privacy_submit_title": "确认提交吗？",
+    "privacy_submit_description": "提交后仍可修改",
+    "privacy_submit_button": "提交",
+    "privacy_submit_processing": "处理中...",
+    "privacy_submit_cancel_button": "取消",
+    "privacy_submit_error": "提交失败。请稍后再试。"
+  }
+}

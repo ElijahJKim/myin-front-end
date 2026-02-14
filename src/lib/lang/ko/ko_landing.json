@@ -1,0 +1,105 @@
+{
+	"landing": {
+		"hero_title": "동남아시아 진출을 위한<br>쉽고 효율적인 인플루언서 매칭",
+		"hero_description": "언어·문화 장벽 없이 동남아시아 인플루언서와 협업을 시작하세요",
+		"hero_button": "캠페인 등록하기",
+
+		"service_intro_title": "우리가 브랜드에게 전달하는 <span class=\"highlight\">특별한 가치</span>",
+		"service_intro_description": "마인은 K-뷰티 브랜드의 글로벌 확장을 지원하는 동남아시아 인플루언서 마케팅 플랫폼입니다.",
+		"service_intro_description_tablet": "마인은 K-뷰티 브랜드의 글로벌 확장을<br>지원하는 동남아시아 인플루언서 마케팅 플랫폼입니다.",
+		"service_intro_banner_text1": "<h1 class=\"sub-title\">창의적이고 독창적인</h1><br> <h2 class=\"main-title\">동남아 인플루언서 발굴 및 검증</h2>",
+		"service_intro_banner_text2": "<h1 class=\"sub-title\">브랜드 컨셉에 가장 적합한</h1><br> <h2 class=\"main-title\">인플루언서 추천</h2>",
+		"service_intro_banner_text3": "<h1 class=\"sub-title\">높은 퀄리티의</h1><br> <h2 class=\"main-title\">현치 맞춤형 콘텐츠 제공</h2>",
+
+		"stats_banner_top_title": "보유 인플루언서 수",
+		"stats_banner_top_number": "3,000명",
+		"stats_banner_top_button": "캠페인 등록하기",
+		"stats_banner_bottom_title": "아직도 엑셀로 동남아 인플루언서를<br>관리하고 계신가요?",
+		"stats_banner_bottom_description_1": "비효율적인 수작업은<br> 끝났습니다.",
+		"stats_banner_bottom_description_2": "<h1>이제,</h1><br><h2><span class=\"highlight\">MYIN</span>이 엄선한 동남아시아 인플루언서로 간편하게 시작하세요.</h2>",
+		"stats_banner_bottom_description_3": "마인은 동남아 인플루언서 마케팅의 <br> 핵심 문제를 한번에 해결합니다.",
+		"problem_list": [
+			{
+				"index": 1,
+				"main_title": "언어 장벽으로 인한 소통문제",
+				"description": "언어 및 문화 차이로 인해 동남아 인플루언서와의 커뮤니케이션에서 발생하는 문제",
+				"problemList": [
+					{ "title": "가이드라인 전달 오류" },
+					{ "title": "피드백 누락" },
+					{ "title": "일정 지연" }
+				]
+			},
+			{
+				"index": 2,
+				"main_title": "적합한 인플루언서를 찾는 데<br>너무 많은 시간 소요",
+				"description": "국가별 플랫폼을 직접 검색하고, 수십 명을 비교한 뒤 연락하는 기존 방식",
+				"problemList": [{ "title": "낮은 섭외 성공률" }, { "title": "느린 캠페인 속도" }]
+			},
+			{
+				"index": 3,
+				"main_title": "협업 과정이 복잡하고 지속 관리가 어려움",
+				"problemList": [
+					{ "title": "어려운 콘텐츠 진행 상황 추적" },
+					{ "title": "인플루언서마다 다른 결과물 퀄리티" }
+				]
+			}
+		],
+		"problem_solution": [
+			{
+				"main_title": "마인이 모든 커뮤니케이션을<br>중간에서 완전히 관리합니다",
+				"items": [
+					{
+						"title": "정확한 <span class=\"highlight\">AI</span> 번역"
+					},
+					{
+						"title": "명확한 가이드라인 전달"
+					},
+					{
+						"title": "오해 없는 피드백 조율"
+					}
+				],
+				"last_text": "콘텐츠 품질 및 협업 안정성 보장"
+			},
+			{
+				"main_title": "<h2>브랜드가 조건만 입력하면,</h2><h1>3,000명 이상의 동남아 인플루언서<br>네트워크에 실시간 알림 자동 발송</h1>",
+				"item": "우리 브랜드에 적합한 인플루언서가<br>먼저 지원하는 구조",
+				"last_text": "<h1>검색 및 섭외 시간</h1><h2><span class=\"highlight\">90% 이상 단축</span> </h2>"
+			},
+			{
+				"main_title": "마인은 전 과정을 하나의 플랫폼에서<br>모두 관리합니다.",
+				"item_title": "협업 과정 단순화",
+				"items": [
+					{
+						"title": "매칭"
+					},
+					{
+						"title": "진행"
+					},
+					{
+						"title": "피드백"
+					},
+					{
+						"title": "결과물 전달"
+					}
+				],
+				"last_text": "캠페인 등록하기"
+			}
+		],
+
+		"faq_title": "자주 묻는 질문",
+		"faq_list": [
+			{
+				"question": "어떤 채널에 캠페인 영상이 업로드되나요?",
+				"answer": "인스타그램, 틱톡, 유튜브 중 희망하시는 채널로 업로드됩니다."
+			},
+			{
+				"question": "수정 요청이 가능한가요?",
+				"answer": "재촬영을 제외한 자막, 폰트 등 간단한 수정 요청은<br>1회에 한해 무료로 가능합니다."
+			},
+			{
+				"question": "어떤 브랜드에게 적합한가요?",
+				"answer": "동남아시아 인플루언서를 통해 자연스럽게<br>현지 소비자를 확보하고 싶은<br>브랜드에게 적합합니다."
+			}
+		]
+	}
+}

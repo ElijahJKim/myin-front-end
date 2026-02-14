@@ -1,0 +1,100 @@
+.common-list-container {
+    overflow-x: auto;
+    width: 100%;
+    max-width: 100%;
+
+    --table-width: 1100px;
+    
+    table {
+   
+        width: auto; 
+
+     
+        min-width: var(--table-width); 
+        margin: 0 auto;
+        
+     
+        table-layout: auto; 
+
+        thead {
+            tr {
+                border-top: 1px solid $gray-600;
+                border-bottom: 1px solid $gray-600;
+                background-color: $gray-200;
+
+                th {
+                    @include text-headline-1-semibold;
+                    
+                  
+                    white-space: nowrap; 
+                    
+                    padding: 10px 40px;
+                    color: $gray-900;
+                }
+            }
+        }
+
+        tbody {
+            tr {
+                border-bottom: 1px solid $gray-600;
+
+                .name-container {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    gap: 5px;
+                    cursor: pointer;
+                }
+
+                td {
+                    // [수정 3] 줄바꿈 방지
+                    white-space: nowrap; 
+
+                    height: 25px;
+                    padding: 18px 40px;
+                    text-align: center;
+                    vertical-align: middle;
+                }
+            }
+        }
+    }
+    
+
+
+	&::-webkit-scrollbar {
+		width: 5px;
+	}
+
+	/* Track */
+	&::-webkit-scrollbar-track {
+		background: $gray-0;
+	}
+
+	/* Handle */
+	&::-webkit-scrollbar-thumb {
+		border-radius: 90px;
+		background: $gray-200;
+		background-clip: padding-box;
+	}
+
+	/* Handle on hover */
+	&::-webkit-scrollbar-thumb:hover {
+		background: $gray-300;
+	}
+}
+
+.btn-main {
+	@include main-button('primary'); // 기본값
+
+	&.light {
+		@include main-button('light');
+	}
+
+	&.dark {
+		@include main-button('dark');
+	}
+
+	&.gray {
+		@include main-button('gray');
+	}
+}

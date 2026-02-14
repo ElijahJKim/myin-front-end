@@ -1,0 +1,42 @@
+{
+	"status": {
+		"pending_title": "문의 접수가 완료되었어요",
+		"pending_description": "영업일 기준 1~2일 이내로 제출하신 이메일로 연락 드려요",
+		"pending_button": "홈으로",
+
+		"waiting_title": "안녕하세요,",
+		"waiting_title_declined": "아쉽게도 인플루언서의 일정이 맞지 않아 매칭이 성사되지 않았어요",
+		"waiting_title_declined_subtitle": "새로운 인플루언서를 찾고 있어요...",
+		"waiting_sub_title": "적합한 인플루언서를 찾고 있어요...",
+		"waiting_description": "다소 시간이 걸릴 수 있으니 조금만 기다려주세요.<br>매칭이 완료되면 이메일로 알려드려요.",
+		"waiting_alert": "수정 시 매칭에 더 오랜 시간이 소요될 수 있어요.",
+		"waiting_button": "등록 폼 수정하기",
+
+		"matching_title": "안녕하세요,",
+		"matching_sub_title": "함께 캠페인을 진행할<br>인플루언서를 선택해주세요.(복수선택)",
+		"matching_info_nationality": "국가명",
+		"matching_info_name": "인플루언서 이름",
+		"matching_info_language": "주요 활동 언어",
+		"matching_info_platform": "플랫폼 종류",
+		"matching_info_followers": "팔로워 수",
+		"matching_info_secondary_use_available": "2차 활용 무료",
+		"matching_alert": "[선택하기]를 누르면 바로 매칭돼요",
+		"matching_button": "선택하기",
+		"matching_rematch_button": "다시 전체 추천받기",
+
+		"matching_modal_cancel_title": "매칭을 거절하시겠어요?",
+		"matching_modal_cancel_description": "더 알맞은 인플루언서를 찾아드려요",
+		"matching_modal_cancel_button": "제출하기",
+		"matching_modal_cancel_close": "닫기",
+
+		"cancel_matching_title": "현제 선택하신 인플루언서는 2명이에요",
+		"cancel_matching_subtitle": "거절 이유를 알려주세요.",
+		"cancel_matching_description": "참고해서 더 알맞은 인플루언서를 다시 추천해 드려요.",
+		"cancel_matching_reason": "이유가 이 곳에 한 줄로 들어갑니다",
+		"cancel_matching_reason_etc": "기타",
+		"cancel_matching_other_reason": "이외 이유를 입력해주세요",
+		"cancel_matching_submit": "건너뛰기",
+
+		"matching_title_sir": "님"
+	}
+}

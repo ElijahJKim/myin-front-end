@@ -1,0 +1,119 @@
+{
+  "landing": {
+    "hero_title": "Kết nối influencer dễ dàng và hiệu quả<br>để mở rộng sang Đông Nam Á",
+    "hero_description": "MYIN giúp các thương hiệu K-Beauty Hàn Quốc mở rộng sang Đông Nam Á.",
+    "hero_button": "Đăng ký chiến dịch",
+    "service_intro_title": "Giá trị <span class=\"highlight\">đặc biệt</span> chúng tôi mang đến cho thương hiệu",
+    "service_intro_description": "MYIN là nền tảng influencer marketing tập trung Đông Nam Á, hỗ trợ tăng trưởng toàn cầu cho các thương hiệu K-Beauty.",
+    "service_intro_description_tablet": "MYIN là nền tảng influencer marketing tập trung Đông Nam Á<br>hỗ trợ tăng trưởng toàn cầu cho các thương hiệu K-Beauty.",
+    "service_intro_banner_text1": "<h1 class=\"sub-title\">Sáng tạo & độc đáo</h1><br> <h2 class=\"main-title\">Tìm kiếm & thẩm định influencer Đông Nam Á</h2>",
+    "service_intro_banner_text2": "<h1 class=\"sub-title\">Phù hợp nhất với concept thương hiệu</h1><br> <h2 class=\"main-title\">Gợi ý influencer tối ưu</h2>",
+    "service_intro_banner_text3": "<h1 class=\"sub-title\">Chất lượng cao</h1><br> <h2 class=\"main-title\">Nội dung bản địa hóa theo từng thị trường</h2>",
+    "stats_banner_top_title": "Số influencer trong mạng lưới",
+    "stats_banner_top_number": "3.000+",
+    "stats_banner_top_button": "Đăng ký chiến dịch",
+    "stats_banner_bottom_title": "Bạn vẫn đang quản lý influencer Đông Nam Á<br>bằng Excel?",
+    "stats_banner_bottom_description_1": "Thao tác thủ công kém hiệu quả<br>kết thúc tại đây.",
+    "stats_banner_bottom_description_2": "<h1>Giờ đây,</h1><br><h2>Bắt đầu thật đơn giản với<br>influencer Đông Nam Á do<br><span class=\"highlight\">MYIN</span> tuyển chọn</h2>",
+    "stats_banner_bottom_description_3": "MYIN giải quyết trọn vẹn các vấn đề cốt lõi của influencer marketing tại Đông Nam Á.",
+    "problem_list": [
+      {
+        "index": 1,
+        "main_title": "Vấn đề giao tiếp do rào cản ngôn ngữ",
+        "description": "Sự khác biệt về ngôn ngữ và văn hóa khiến việc phối hợp với influencer Đông Nam Á dễ phát sinh sự cố",
+        "problemList": [
+          {
+            "title": "Sai lệch khi truyền đạt briefing"
+          },
+          {
+            "title": "Bỏ sót feedback"
+          },
+          {
+            "title": "Trễ tiến độ"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "main_title": "Tốn quá nhiều thời gian để tìm influencer phù hợp<br>",
+        "description": "Cách làm cũ: tự tìm theo từng nền tảng, so sánh hàng chục influencer rồi liên hệ thủ công",
+        "problemList": [
+          {
+            "title": "Tỷ lệ chốt hợp tác thấp"
+          },
+          {
+            "title": "Tốc độ triển khai chiến dịch chậm"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "main_title": "Quy trình hợp tác phức tạp, khó quản lý dài hạn",
+        "problemList": [
+          {
+            "title": "Khó theo dõi tiến độ nội dung"
+          },
+          {
+            "title": "Chất lượng đầu ra không đồng đều giữa các influencer"
+          }
+        ]
+      }
+    ],
+    "problem_solution": [
+      {
+        "main_title": "MYIN quản lý toàn bộ giao tiếp<br>với vai trò trung gian chuyên trách",
+        "items": [
+          {
+            "title": "Dịch <span class=\"highlight\">AI</span> chính xác"
+          },
+          {
+            "title": "Truyền đạt guideline rõ ràng"
+          },
+          {
+            "title": "Điều phối feedback minh bạch, tránh hiểu lầm"
+          }
+        ],
+        "last_text": "Đảm bảo chất lượng nội dung và sự ổn định khi hợp tác"
+      },
+      {
+        "main_title": "<h2>Chỉ cần nhập tiêu chí chiến dịch,</h2><h1>Thông báo real-time sẽ tự động gửi<br>đến mạng lưới 3.000+ influencer Đông Nam Á</h1>",
+        "item": "Cơ chế để influencer phù hợp<br>chủ động ứng tuyển cho thương hiệu",
+        "last_text": "<h1>Thời gian tìm kiếm & liên hệ</h1><h2><span class=\"highlight\">giảm hơn 90%</span></h2>"
+      },
+      {
+        "main_title": "MYIN quản lý toàn bộ quy trình<br>trên một nền tảng duy nhất.",
+        "item_title": "Đơn giản hóa quy trình hợp tác",
+        "items": [
+          {
+            "title": "Kết nối"
+          },
+          {
+            "title": "Triển khai"
+          },
+          {
+            "title": "Feedback"
+          },
+          {
+            "title": "Bàn giao"
+          }
+        ],
+        "last_text": "Đăng ký chiến dịch"
+      }
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq_list": [
+      {
+        "question": "Video chiến dịch sẽ được đăng lên kênh nào?",
+        "answer": "Video sẽ được đăng lên kênh bạn mong muốn: Instagram, TikTok hoặc YouTube."
+      },
+      {
+        "question": "Có thể yêu cầu chỉnh sửa không?",
+        "answer": "Miễn phí 1 lần chỉnh sửa nhỏ như phụ đề, font chữ… (không bao gồm quay lại)."
+      },
+      {
+        "question": "MYIN phù hợp với thương hiệu nào?",
+        "answer": "Phù hợp với các thương hiệu muốn tiếp cận người tiêu dùng địa phương một cách tự nhiên thông qua influencer Đông Nam Á."
+      }
+    ]
+  }
+}

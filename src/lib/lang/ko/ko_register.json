@@ -1,0 +1,111 @@
+{
+	"campaign": {
+		"register_title": "캠페인 등록하기",
+		"register_brand_name": "브랜드명",
+		"register_brand_name_example": "예)이니스프리",
+		"register_product_name": "진행하실 제품명",
+		"register_product_name_example": "예)당근 토너패드",
+		"register_campaign_purpose": "캠페인 목적",
+		"register_campaign_purpose_example": "목적을 입력해주세요.",
+		"register_target_country": {
+			"title": "타겟 국가(복수 선택)",
+			"items": [
+				{
+					"title": "태국"
+				},
+				{
+					"title": "베트남"
+				},
+				{
+					"title": "싱가포르"
+				},
+				{
+					"title": "미정"
+				}
+			]
+		},
+		"register_upload_platform": {
+			"title": "업로드 플랫폼(복수 선택)",
+			"items": [
+				{
+					"title": "틱톡"
+				},
+				{
+					"title": "인스타그램"
+				},
+				{
+					"title": "유튜브"
+				}
+			]
+		},
+		"register_budget": {
+			"title": "예산 범위",
+			"items": [
+				{
+					"title": "9원"
+				},
+				{
+					"title": "99원"
+				},
+				{
+					"title": "999원"
+				}
+			]
+		},
+
+		"register_upload_period": "업로드 희망 일자",
+		"register_upload_period_example": "클릭하여 날짜를 선택해주세요",
+		"register_product_link": "진행하실 제품 링크",
+		"register_product_link_example": "링크 붙여넣기",
+		"register_charge_name": "담당자명",
+		"register_charge_name_example": "이름을 작성하세요.",
+		"register_charge_phone": "담당자 전화번호",
+		"register_charge_phone_example": "전화번호를 작성하세요.",
+		"register_charge_email": "담당자 이메일",
+		"register_charge_email_example": "example@email.com",
+		"register_etc": "기타 문의사항",
+		"register_etc_example": "문의사항을 작성하세요.",
+
+		"register_prev_button": "이전으로",
+		"register_next_button": "다음으로",
+		"register_submit_button": "제출하기",
+
+		"privacy_title": "개인정보 수집 및 이용 동의",
+		"privacy_description": "MYIN은 광고주 회원 관리 및 광고 신청/문의 상담 진행을 위해 개인 정보를 수집 및 이용합니다.",
+		"privacy_section1_title": "* 광고주 회원 관리",
+		"privacy_section1_items": [
+			"광고서비스 제공 및 계약 이행을 위한 안내",
+			"(마케팅 및 광고 활용 동의 시) 이벤트 정보 안내, 광고성 정보 안내"
+		],
+		"privacy_section2_title": "* 광고 신청/문의 및 상담",
+		"privacy_section2_items": [
+			"광고 신청, 문의 및 상담",
+			"광고 관련 정보전달을 위한 안내(광고 부킹 및 운영 관련 안내, 광고 상품 프로모션 안내, 고객 관리)"
+		],
+		"privacy_section3_title": "개인 정보는 다음과 같은 방법으로 수집합니다.",
+		"privacy_section3_items": [
+			"홈페이지를 통한 광고/제휴 문의 시 수집 : 브랜드명, 이름, 휴대폰번호, 문의내용"
+		],
+		"privacy_section4_title": "개인 정보 파기 정책",
+		"privacy_section4_items": [
+			"개인 정보는 동의를 받은 개인 정보의 수집 및 이용목적이 달성되면 법령 또는 내부방침에 의해<br>보존할 필요가 있는 경우를 제외하고는 지체 없이 파기합니다.<br>단, 통신비밀보호법 등에서의 소비자보호에 관한 법률 등의 관계법령의 규정에 의하여<br>보존할 필요가 있는 경우 관계법령에서 규정한 일정한 기간 동안 사용자 개인 정보를 보관합니다.",
+			"소비자의 불만 또는 분쟁처리에 관한 기록 : 3년",
+			"표시/광고에 관한 기록 : 6개월",
+			"웹사이트 방문 기록 : 3개월",
+			"대금 결제 및 재화 등의 공급에 관한 기록 : 5년",
+			"단, 광고 정산이 완료되지 않아 MYIN에서 광고비 청구를<br>해야 하는 경우 개인 정보의 정정·삭제를 거절할 수 있습니다."
+		],
+		"privacy_section5_description": "등록되어 있는 이용자의 개인 정보를 조회하거나 수정할 수 있으며,<br>정보 삭제 및 처리 정지를 요청할 수 있습니다. 조회, 정보 삭제 또는 처리 정지를 원하시는 경우 담당자에게 연락하시면 빠르게 조치하겠습니다.",
+		"privacy_contact": "담당자 : myin@myin-biz.com",
+		"privacy_agree_button": "개인정보 수집 및 이용에 동의합니다",
+		"error_required": "필수 항목입니다.",
+		"error_email_format": "올바른 이메일 형식을 입력해주세요. (예: example@gmail.com)",
+
+		"privacy_submit_title": "제출하시겠어요?",
+		"privacy_submit_description": "제출 후 수정할 수 있어요",
+		"privacy_submit_button": "제출하기",
+		"privacy_submit_processing": "처리 중...",
+		"privacy_submit_cancel_button": "취소",
+		"privacy_submit_error": "제출에 실패했습니다. 잠시 후 다시 시도해주세요."
+	}
+}

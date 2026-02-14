@@ -1,0 +1,51 @@
+@import 'reset';
+@import 'colors';
+@import 'typography';
+@import 'grid';
+@import 'responsive';
+@import 'mixin';
+@import 'common';
+
+body {
+	/* Pretendard를 최우선으로, 없으면 시스템 폰트 사용 */
+	font-family:
+		Pretendard,
+		-apple-system,
+		BlinkMacSystemFont,
+		system-ui,
+		Roboto,
+		'Helvetica Neue',
+		'Segoe UI',
+		'Apple SD Gothic Neo',
+		'Malgun Gothic',
+		'Apple Color Emoji',
+		'Segoe UI Emoji',
+		'Segoe UI Symbol',
+		sans-serif;
+
+	/* 글자를 좀 더 선명하고 부드럽게 (Mac/iOS 필수 설정) */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* 폼 요소 강제 상속 (이걸 안 하면 input은 굴림체로 나올 수 있음) */
+button,
+input,
+optgroup,
+select,
+textarea {
+	color: inherit;
+	font-family: inherit;
+}
+
+.page-top-container {
+	height: 180px;
+
+	@include tablet-up {
+		height: 300px;
+	}
+}
+
+.warning-text{
+	color: #ff080c;
+}

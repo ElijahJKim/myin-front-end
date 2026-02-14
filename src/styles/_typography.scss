@@ -1,0 +1,198 @@
+// -----------------------------------------------------------------------------
+// Typography System Variables
+// -----------------------------------------------------------------------------
+
+// 1. 공통 설정 (Common Settings)
+$font-family-base:
+	'Pretendard',
+	-apple-system,
+	blinkmacsystemfont,
+	system-ui,
+	sans-serif;
+$line-height-base: 1.6;
+$letter-spacing-base: -0.5px;
+
+// 2. 폰트 굵기 (Font Weights)
+$fw-regular: 400;
+$fw-medium: 500;
+$fw-semibold: 600;
+$fw-bold: 700;
+$fw-extrabold: 800;
+
+// 3. 폰트 크기 (Font Sizes)
+$fs-display-0: 60px;
+$fs-display-1: 40px;
+$fs-title-0: 36px;
+$fs-title-1: 28px;
+$fs-title-2: 24px;
+$fs-heading-0: 22px;
+$fs-heading-1: 20px;
+$fs-headline-0: 18px;
+$fs-headline-1: 16px;
+$fs-body-0: 14px;
+$fs-caption-0: 12px;
+
+// -----------------------------------------------------------------------------
+// Base Mixin (기본 믹스인)
+// -----------------------------------------------------------------------------
+@mixin text-base($size, $weight) {
+	font-family: $font-family-base;
+	font-size: $size;
+	font-weight: $weight;
+	line-height: $line-height-base;
+	letter-spacing: $letter-spacing-base;
+}
+
+// -----------------------------------------------------------------------------
+// Specific Mixins (Weight 별 개별 생성)
+// -----------------------------------------------------------------------------
+
+// === Display 0 (60px) ===
+// Weights: Extrabold
+@mixin text-display-0-extrabold {
+	@include text-base($fs-display-0, $fw-extrabold);
+}
+
+// === Display 1 (40px) ===
+// Weights: Extrabold, Bold, Semibold
+@mixin text-display-1-extrabold {
+	@include text-base($fs-display-1, $fw-extrabold);
+}
+
+@mixin text-display-1-bold {
+	@include text-base($fs-display-1, $fw-bold);
+}
+
+@mixin text-display-1-semibold {
+	@include text-base($fs-display-1, $fw-semibold);
+}
+
+// === Title 0 (36px) ===
+// Weights: Extrabold, Bold, Semibold
+@mixin text-title-0-extrabold {
+	@include text-base($fs-title-0, $fw-extrabold);
+}
+
+@mixin text-title-0-bold {
+	@include text-base($fs-title-0, $fw-bold);
+}
+
+@mixin text-title-0-semibold {
+	@include text-base($fs-title-0, $fw-semibold);
+}
+
+// === Title 1 (28px) ===
+// Weights: Bold, Semibold
+@mixin text-title-1-bold {
+	@include text-base($fs-title-1, $fw-bold);
+}
+
+@mixin text-title-1-semibold {
+	@include text-base($fs-title-1, $fw-semibold);
+}
+
+// === Title 2 (24px) ===
+// Weights: Bold, Semibold, Medium
+@mixin text-title-2-bold {
+	@include text-base($fs-title-2, $fw-bold);
+}
+
+@mixin text-title-2-semibold {
+	@include text-base($fs-title-2, $fw-semibold);
+}
+
+@mixin text-title-2-medium {
+	@include text-base($fs-title-2, $fw-medium);
+}
+
+// === Heading 0 (22px) ===
+// Weights: Bold, Semibold, Medium
+@mixin text-heading-0-bold {
+	@include text-base($fs-heading-0, $fw-bold);
+}
+
+@mixin text-heading-0-semibold {
+	@include text-base($fs-heading-0, $fw-semibold);
+}
+
+@mixin text-heading-0-medium {
+	@include text-base($fs-heading-0, $fw-medium);
+}
+
+// === Heading 1 (20px) ===
+// Weights: Bold, Semibold, Medium
+@mixin text-heading-1-bold {
+	@include text-base($fs-heading-1, $fw-bold);
+}
+
+@mixin text-heading-1-semibold {
+	@include text-base($fs-heading-1, $fw-semibold);
+}
+
+@mixin text-heading-1-medium {
+	@include text-base($fs-heading-1, $fw-medium);
+}
+
+// === Headline 0 (18px) ===
+// Weights: Bold, Semibold, Medium, Regular
+@mixin text-headline-0-bold {
+	@include text-base($fs-headline-0, $fw-bold);
+}
+
+@mixin text-headline-0-semibold {
+	@include text-base($fs-headline-0, $fw-semibold);
+}
+
+@mixin text-headline-0-medium {
+	@include text-base($fs-headline-0, $fw-medium);
+}
+
+@mixin text-headline-0-regular {
+	@include text-base($fs-headline-0, $fw-regular);
+}
+
+// === Headline 1 (16px) ===
+// Weights: Bold, Semibold, Medium, Regular
+@mixin text-headline-1-bold {
+	@include text-base($fs-headline-1, $fw-bold);
+}
+
+@mixin text-headline-1-semibold {
+	@include text-base($fs-headline-1, $fw-semibold);
+}
+
+@mixin text-headline-1-medium {
+	@include text-base($fs-headline-1, $fw-medium);
+}
+
+@mixin text-headline-1-regular {
+	@include text-base($fs-headline-1, $fw-regular);
+}
+
+// === Body 0 (14px) ===
+// Weights: Semibold, Medium, Regular
+@mixin text-body-0-semibold {
+	@include text-base($fs-body-0, $fw-semibold);
+}
+
+@mixin text-body-0-medium {
+	@include text-base($fs-body-0, $fw-medium);
+}
+
+@mixin text-body-0-regular {
+	@include text-base($fs-body-0, $fw-regular);
+}
+
+// === Caption 0 (12px) ===
+// Weights: Semibold, Medium, Regular
+@mixin text-caption-0-semibold {
+	@include text-base($fs-caption-0, $fw-semibold);
+}
+
+@mixin text-caption-0-medium {
+	@include text-base($fs-caption-0, $fw-medium);
+}
+
+@mixin text-caption-0-regular {
+	@include text-base($fs-caption-0, $fw-regular);
+}

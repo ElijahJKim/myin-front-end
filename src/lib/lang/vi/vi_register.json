@@ -1,0 +1,108 @@
+{
+  "campaign": {
+    "register_title": "Đăng ký chiến dịch",
+    "register_brand_name": "Tên thương hiệu",
+    "register_brand_name_example": "Ví dụ: Innisfree",
+    "register_product_name": "Tên sản phẩm",
+    "register_product_name_example": "Ví dụ: Carrot Toner Pad",
+    "register_campaign_purpose": "Mục tiêu chiến dịch",
+    "register_campaign_purpose_example": "Vui lòng nhập mục tiêu.",
+    "register_target_country": {
+      "title": "Quốc gia mục tiêu (chọn nhiều)",
+      "items": [
+        {
+          "title": "Thái Lan"
+        },
+        {
+          "title": "Việt Nam"
+        },
+        {
+          "title": "Singapore"
+        },
+        {
+          "title": "Chưa xác định"
+        }
+      ]
+    },
+    "register_upload_platform": {
+      "title": "Nền tảng đăng tải (chọn nhiều)",
+      "items": [
+        {
+          "title": "TikTok"
+        },
+        {
+          "title": "Instagram"
+        },
+        {
+          "title": "YouTube"
+        }
+      ]
+    },
+    "register_budget": {
+      "title": "Ngân sách dự kiến",
+      "items": [
+        {
+          "title": "9$"
+        },
+        {
+          "title": "99$"
+        },
+        {
+          "title": "999$"
+        }
+      ]
+    },
+    "register_upload_period": "Ngày đăng mong muốn",
+    "register_upload_period_example": "Nhấp để chọn ngày",
+    "register_product_link": "Link sản phẩm",
+    "register_product_link_example": "Dán đường link",
+    "register_charge_name": "Tên người phụ trách",
+    "register_charge_name_example": "Nhập tên",
+    "register_charge_phone": "Số điện thoại",
+    "register_charge_phone_example": "Nhập số điện thoại",
+    "register_charge_email": "Email liên hệ",
+    "register_charge_email_example": "example@email.com",
+    "register_etc": "Ghi chú thêm",
+    "register_etc_example": "Nhập nội dung",
+    "register_prev_button": "Quay lại",
+    "register_next_button": "Tiếp theo",
+    "register_submit_button": "Gửi",
+    "privacy_title": "Đồng ý thu thập và sử dụng thông tin cá nhân",
+    "privacy_description": "MYIN thu thập và sử dụng thông tin cá nhân để quản lý khách hàng và xử lý chiến dịch.",
+    "privacy_section1_title": "* Quản lý khách hàng",
+    "privacy_section1_items": [
+      "Hướng dẫn và thực hiện hợp đồng dịch vụ",
+      "(Nếu đồng ý marketing) Thông tin sự kiện và quảng bá"
+    ],
+    "privacy_section2_title": "* Đăng ký / Tư vấn chiến dịch",
+    "privacy_section2_items": [
+      "Đăng ký và tư vấn chiến dịch",
+      "Thông báo liên quan đến vận hành và khuyến mãi"
+    ],
+    "privacy_section3_title": "Cách thu thập thông tin cá nhân:",
+    "privacy_section3_items": [
+      "Thu thập qua website: tên thương hiệu, tên, số điện thoại, nội dung"
+    ],
+    "privacy_section4_title": "Chính sách lưu trữ thông tin",
+    "privacy_section4_items": [
+      "Thông tin sẽ được hủy khi hoàn thành mục đích, trừ trường hợp pháp luật yêu cầu.",
+      "Khiếu nại: 3 năm",
+      "Quảng cáo: 6 tháng",
+      "Lịch sử truy cập: 3 tháng",
+      "Thanh toán: 5 năm",
+      "Có thể từ chối xóa nếu chưa hoàn tất thanh toán."
+    ],
+    "privacy_section5_description": "Bạn có thể yêu cầu chỉnh sửa hoặc xóa thông tin cá nhân bất cứ lúc nào.",
+    "privacy_contact": "Liên hệ: myin@myin-biz.com",
+    "privacy_agree_button": "Đồng ý và tiếp tục",
+    "error_required": "Đây là trường bắt buộc.",
+    "error_email_format": "Vui lòng nhập địa chỉ email hợp lệ. (ví dụ: example@gmail.com)",
+    "privacy_close_button": "Đóng",
+    "privacy_submit_title": "Bạn muốn gửi chứ?",
+    "privacy_submit_description": "Có thể chỉnh sửa sau khi gửi",
+    "privacy_submit_button": "Gửi",
+    "privacy_submit_processing": "Đang xử lý...",
+    "privacy_submit_cancel_button": "Hủy",
+    "privacy_submit_error": "Gửi thất bại. Vui lòng thử lại sau."
+  }
+}

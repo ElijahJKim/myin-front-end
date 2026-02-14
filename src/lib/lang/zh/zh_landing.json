@@ -1,0 +1,119 @@
+{
+  "landing": {
+    "hero_title": "轻松高效的网红匹配<br>助力进军东南亚市场",
+    "hero_description": "MYIN 助力韩国美妆品牌（K-Beauty）拓展东南亚市场。",
+    "hero_button": "提交营销活动",
+    "service_intro_title": "我们为品牌带来的<span class=\"highlight\">独特价值</span>",
+    "service_intro_description": "MYIN 是专注东南亚的网红营销平台，支持 K-Beauty 品牌的全球增长。",
+    "service_intro_description_tablet": "MYIN 是专注东南亚的网红营销平台<br>支持 K-Beauty 品牌的全球增长。",
+    "service_intro_banner_text1": "<h1 class=\"sub-title\">创意且独特</h1><br> <h2 class=\"main-title\">东南亚网红挖掘与审核</h2>",
+    "service_intro_banner_text2": "<h1 class=\"sub-title\">最契合品牌概念</h1><br> <h2 class=\"main-title\">精准网红推荐</h2>",
+    "service_intro_banner_text3": "<h1 class=\"sub-title\">高品质</h1><br> <h2 class=\"main-title\">本地化定制内容输出</h2>",
+    "stats_banner_top_title": "网红资源规模",
+    "stats_banner_top_number": "3,000+",
+    "stats_banner_top_button": "提交营销活动",
+    "stats_banner_bottom_title": "还在用 Excel 管理东南亚网红吗？",
+    "stats_banner_bottom_description_1": "低效的手工操作<br>到此为止。",
+    "stats_banner_bottom_description_2": "<h1>现在，</h1><br><h2>用<br><span class=\"highlight\">MYIN</span> 精选的东南亚网红<br>轻松开始</h2>",
+    "stats_banner_bottom_description_3": "MYIN 一站式解决东南亚网红营销的核心难题。",
+    "problem_list": [
+      {
+        "index": 1,
+        "main_title": "语言壁垒导致的沟通问题",
+        "description": "语言与文化差异，导致与东南亚网红协作时频繁出现沟通偏差",
+        "problemList": [
+          {
+            "title": "Brief 传达错误"
+          },
+          {
+            "title": "反馈遗漏"
+          },
+          {
+            "title": "排期延误"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "main_title": "寻找合适网红耗时过长<br>",
+        "description": "传统方式：逐个平台搜索、对比多人后再逐一联系",
+        "problemList": [
+          {
+            "title": "邀约成功率低"
+          },
+          {
+            "title": "活动推进慢"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "main_title": "合作流程复杂，持续管理困难",
+        "problemList": [
+          {
+            "title": "内容进度难以追踪"
+          },
+          {
+            "title": "网红产出质量参差不齐"
+          }
+        ]
+      }
+    ],
+    "problem_solution": [
+      {
+        "main_title": "MYIN 作为中间方<br>全程管理沟通流程",
+        "items": [
+          {
+            "title": "精准 <span class=\"highlight\">AI</span> 翻译"
+          },
+          {
+            "title": "清晰传达合作指南"
+          },
+          {
+            "title": "无误解的反馈协调"
+          }
+        ],
+        "last_text": "保障内容质量与合作稳定性"
+      },
+      {
+        "main_title": "<h2>品牌只需填写条件，</h2><h1>系统将实时通知<br>3,000+ 东南亚网红网络</h1>",
+        "item": "由更匹配的网红<br>优先向品牌主动报名",
+        "last_text": "<h1>搜索与邀约时间</h1><h2><span class=\"highlight\">缩短 90% 以上</span></h2>"
+      },
+      {
+        "main_title": "MYIN 在一个平台内<br>管理全流程。",
+        "item_title": "合作流程更简单",
+        "items": [
+          {
+            "title": "匹配"
+          },
+          {
+            "title": "执行"
+          },
+          {
+            "title": "反馈"
+          },
+          {
+            "title": "交付"
+          }
+        ],
+        "last_text": "提交营销活动"
+      }
+    ],
+    "faq_title": "常见问题",
+    "faq_list": [
+      {
+        "question": "活动视频会发布到哪些渠道？",
+        "answer": "可按需求发布到 Instagram、TikTok 或 YouTube。"
+      },
+      {
+        "question": "可以提出修改吗？",
+        "answer": "除重拍外，字幕、字体等小幅修改可免费 1 次。"
+      },
+      {
+        "question": "MYIN 适合哪些品牌？",
+        "answer": "适合希望通过东南亚网红自然触达本地消费者、拓展市场的品牌。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+// -----------------------------------------------------------------------------
+// Design System Color Palette
+// -----------------------------------------------------------------------------
+
+// 1. Primary Colors
+$primary-0: #f7f5ff;
+$primary-100: #cfc5fd;
+$primary-200: #a898f9;
+$primary-300: #8670f2;
+$primary-400: #6a50e9;
+$primary-500: #593fd9;
+$primary-600: #472dcb;
+$primary-700: #351bb8;
+$primary-800: #2a13a0;
+$primary-900: #220e87;
+
+// 2. Grayscale Colors
+$gray-0: #fff;
+$gray-100: #faf9fb;
+$gray-200: #f1f0f3;
+$gray-300: #e4e3e7;
+$gray-400: #d3d2d6;
+$gray-500: #bbbabf;
+$gray-600: #9d9ca1;
+$gray-700: #77777a;
+$gray-800: #4b4b4d;
+$gray-900: #1e1e1f;
+
+// Semantic Usage
+
+$color-bg-body: $gray-0;
+$color-bg-light: $gray-100;
