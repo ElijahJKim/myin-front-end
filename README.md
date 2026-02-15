@@ -10,6 +10,7 @@ This repository is the frontend application for MYIN, built with **Svelte 5** an
 - **Internationalization:** i18n
 - **Package Manager:** pnpm
 - **Deployment:** Cloudflare Pages
+- **QA Test:** [Trello](https://trello.com/b/FVXW95eK/myin-landing-page-qa)
 
 ## Git Workflow & Branch Strategy
 
